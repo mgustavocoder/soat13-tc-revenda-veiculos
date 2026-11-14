@@ -2,6 +2,8 @@
 
 Serviço independente para cadastro, consulta e disponibilidade de veículos. Este projeto mantém seu próprio código, dependências, infraestrutura Docker e banco MySQL; não importa código de outros serviços.
 
+Visão geral do sistema (AWS, Clean Architecture e saga): [documentação de arquitetura (PDF)](https://github.com/mgustavocoder/soat13-tc-revenda-infra-k8s/blob/main/docs/arquitetura-seguranca-saga.pdf).
+
 ## Executar
 
 ```bash
